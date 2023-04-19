@@ -1,0 +1,4 @@
+conda activate p383
+cd C:\Users\devin\Downloads\predicting poverty levels using image sensing\SS1-dl-training-code-flask
+#jupyter notebook
+python app.py
